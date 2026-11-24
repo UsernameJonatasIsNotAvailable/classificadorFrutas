@@ -1,5 +1,3 @@
-# classificadorFrutas
-
 ```markdown
 # 📝 Sugestão de Conteúdo para o seu README.md no GitHub
 
