@@ -1,11 +1,4 @@
 ```markdown
-# 📝 Sugestão de Conteúdo para o seu README.md no GitHub
-
-Copie o conteúdo formatado abaixo e cole no arquivo `README.md` do seu repositório no GitHub para guiar os visitantes do seu projeto.
-
----
-
-```markdown
 # 🍎 Detector Inteligente de Frutas e Qualidade
 
 Este projeto consiste em um sistema inteligente capaz de classificar frutas e avaliar o seu estado de qualidade (boas ou ruins para o consumo). Ele utiliza Visão Computacional tradicional (OpenCV) para isolar as frutas do fundo da imagem e uma Rede Neural Convolucional profunda (baseada na arquitetura **MobileNetV2** via Transfer Learning) para realizar a inferência de 10 classes.
@@ -44,4 +37,3 @@ Qualquer usuário pode rodar a aplicação diretamente no navegador sem a necess
 
 ---
 Desenvolvido com 💻, TensorFlow e OpenCV por [Seu Nome](https://github.com/seu-usuario).
-```
