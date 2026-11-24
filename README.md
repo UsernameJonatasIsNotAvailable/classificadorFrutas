@@ -9,11 +9,19 @@ Qualquer pessoa pode rodar e testar o aplicativo diretamente no navegador pelo G
 1. **Abra o Notebook no Google Colab:**
    Clique no botão abaixo para abrir o ambiente de execução:
    
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Nwyr1vaJ9xjFpVTxQm2QvJJEfhGkLyJg#scrollTo=2e805a99)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](SUA_URL_DO_NOTEBOOK_NO_COLAB_AQUI)
 
 2. **Execute as Células:**
-   * No menu do Colab, clique em **Ambiente de execução** > **Executar tudo** (ou pressione `Ctrl + F9`).
-   * **Atenção na Etapa 1:** O notebook vai pedir as suas credenciais do Kaggle (`Kaggle Username` e `Kaggle Key`) de forma interativa na tela apenas para baixar as fotos de teste.
+   * No menu superior do Colab, clique em **Ambiente de execução** > **Executar tudo** (ou use o atalho `Ctrl + F9`).
+   * **🔑 Passo Importante (Autenticação do Kaggle):**
+     Como o notebook usa imagens reais de teste, ele precisa fazer o download do dataset do Kaggle de forma segura. Por segurança, suas senhas não ficam expostas no código público. Durante a execução da primeira célula, o Colab abrirá duas caixas de texto para você preencher:
+     
+     * **Kaggle Username:** Seu nome de usuário do Kaggle.
+     * **Kaggle Key:** Sua chave de API privada.
+     
+     *Caso ainda não tenha uma chave do Kaggle, é gratuito e rápido:* 
+     1. Crie uma conta no [Kaggle](https://www.kaggle.com/).
+     2. Vá nas configurações do seu perfil (Settings) e clique em **Create New Token** para baixar um arquivo chamado `kaggle.json` contendo seu usuário e sua chave.
 
 3. **Abra o Aplicativo:**
    * Ao chegar na última célula (**Etapa 8**), um link público temporário do **Gradio** será gerado (ex: `https://xxxx.gradio.live`).
