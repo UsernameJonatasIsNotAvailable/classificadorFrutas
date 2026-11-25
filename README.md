@@ -9,7 +9,7 @@ Qualquer pessoa pode rodar e testar o aplicativo diretamente no navegador pelo G
 1. **Abra o Notebook no Google Colab:**
    Clique no botão abaixo para abrir o ambiente de execução:
    
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Nwyr1vaJ9xjFpVTxQm2QvJJEfhGkLyJg#scrollTo=_xdVrEBiW2HB)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UsernameJonatasIsNotAvailable/classificadorFrutas/blob/main/classificador_frutas_5_classes.ipynb)
 
 2. **Execute as Células:**
    * No menu superior do Colab, clique em **Ambiente de execução** > **Executar tudo** (ou use o atalho `Ctrl + F9`).
